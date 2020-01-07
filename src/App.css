@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  color: red;
+  margin-top:20px;
+  border: solid;
+  width:200px;
+  text-align: center;
+  float: center;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+div{
+  margin: 0 auto;
+}
+h1{
+  font-size: 50px;
+}
